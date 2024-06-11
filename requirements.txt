@@ -1,0 +1,13 @@
+logging
+requests
+concurrent.futures
+telegram import Update
+telegram.ext 
+Updater
+CommandHandler
+CallbackContext
+os
+PIL
+Image
+io
+BytesIO
